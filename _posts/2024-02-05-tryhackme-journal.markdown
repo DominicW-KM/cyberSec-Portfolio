@@ -1,4 +1,4 @@
----
+
 layout: default
 modal-id: 6
 title: TryHackMe Journal
